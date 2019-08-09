@@ -1,0 +1,17 @@
+bji@nonomuraea:~/projects/MICROBIOTA/Bac5/pair$ ll
+total 2884
+drwxrwxr-x  2 bji bji    4096 Nov  9 17:01 ./
+drwxrwxr-x 10 bji bji    4096 Nov  9 14:41 ../
+-rw-------  1 bji bji 1021548 Nov  9 16:44 biomass.csv
+-rw-rw-r--  1 bji bji       0 Nov  9 17:01 command_history.txt
+-rw-rw-r--  1 bji bji     870 Nov  9 17:01 format_table.pl
+-rw-------  1 bji bji    2578 Nov  9 16:45 max_mu.csv
+-rw-rw-r--  1 bji bji 1911281 Nov  9 14:41 pairwise_growth_1026.xlsx
+bji@nonomuraea:~/projects/MICROBIOTA/Bac5/pair$ perl format_table.pl biomass.csv >biomass_pair_tab.txt
+bji@nonomuraea:~/projects/MICROBIOTA/Bac5/pair$ dos2unix biomass.csv 
+dos2unix: converting file biomass.csv to Unix format ...
+bji@nonomuraea:~/projects/MICROBIOTA/Bac5/pair$ perl format_table.pl biomass.csv >biomass_pair_tab.txt
+bji@nonomuraea:~/projects/MICROBIOTA/Bac5/pair$ dos2unix max_mu.csv 
+dos2unix: converting file max_mu.csv to Unix format ...
+bji@nonomuraea:~/projects/MICROBIOTA/Bac5/pair$ perl format_table.pl max_mu.csv >maxU_tab.txt
+bji@nonomuraea:~/projects/MICROBIOTA/Bac5/pair$ 
