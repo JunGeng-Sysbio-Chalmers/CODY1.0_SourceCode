@@ -17,13 +17,20 @@ Authors:    Jun Geng <gejun@chalmers.se>
 
 The folder Figure1 ----> provides the data and code to produce the
                          figures in Fig.1 
+                         
 The folder Figure2 ----> provides the data and code to produce the 
                          figures in Fig.2, and coculture, Supplementary Fig.6
+                         
 The folder Figure3 ----> provides the data and code to produce the 
                          figures in Fig.3 and spatiotemporal 
                          profiles from newborn to 12 month
+                         
 The folder Figure4 ----> provides the data and code to produce the 
                          Figure4.
+                         
+Supplementary Figures are provided in the folder named "Supplementary Figures"
+
+Supplementary Datasets are provided in the folder named "Supplmenetary Datasets"
 
 ------------------------------------------------------------------------
 About simulation code : CODY1.0 
