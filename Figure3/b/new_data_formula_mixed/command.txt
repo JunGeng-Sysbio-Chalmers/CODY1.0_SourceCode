@@ -1,0 +1,16 @@
+bji@equitans:/media/bji/disk/Tmp/project_redo/Bac8/new_data_formula$ cd ../new_data_formula_mixed/
+bji@equitans:/media/bji/disk/Tmp/project_redo/Bac8/new_data_formula_mixed$ ll
+total 1920
+drwxrwxrwx 1 bji bji 131072 Oct 24 11:40 ./
+drwxrwxrwx 1 bji bji 131072 Oct 24 11:31 ../
+-rwxrwxrwx 1 bji bji   8933 Oct  8 16:58 Bac8_all_species_info.txt*
+-rwxrwxrwx 1 bji bji 147602 Oct 24 11:08 B_f_formula_mixed.txt*
+-rwxrwxrwx 1 bji bji   2038 Jun  5  2017 format_abundance.pl*
+-rwxrwxrwx 1 bji bji 288612 Oct 24 11:08 M12_f_formula_mixed.txt*
+-rwxrwxrwx 1 bji bji 175787 Oct 24 11:08 M4_f_formula_mixed.txt*
+-rwxrwxrwx 1 bji bji 457027 Oct 24 11:08 M_f_formula_mixed.txt*
+bji@equitans:/media/bji/disk/Tmp/project_redo/Bac8/new_data_formula_mixed$ perl format_abundance.pl Bac8_all_species_info.txt B_f_formula_mixed.txt B_formula_mixed_8_SINGLE.txt B_formula_mixed_8_ALL.txt Newborn
+bji@equitans:/media/bji/disk/Tmp/project_redo/Bac8/new_data_formula_mixed$ perl format_abundance.pl Bac8_all_species_info.txt M4_f_formula_mixed.txt M4_formula_mixed_8_SINGLE.txt M4_formula_mixed_8_ALL.txt "4 Months"
+bji@equitans:/media/bji/disk/Tmp/project_redo/Bac8/new_data_formula_mixed$ perl format_abundance.pl Bac8_all_species_info.txt M12_f_formula_mixed.txt M12_formula_mixed_8_SINGLE.txt M12_formula_mixed_8_ALL.txt "12 Months"
+bji@equitans:/media/bji/disk/Tmp/project_redo/Bac8/new_data_formula_mixed$ touch command.txt
+bji@equitans:/media/bji/disk/Tmp/project_redo/Bac8/new_data_formula_mixed$ 

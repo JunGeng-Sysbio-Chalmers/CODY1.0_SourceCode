@@ -1,0 +1,3 @@
+B.fragilis	B.longum	B.breve	B.adolescentis	E.hallii	F.pr	R.intestinalis
+Baseline	0.2874	0.3295	0.0361	1.6925	2.2774	7.5149	1.3705
+Average Intervention	0.4024	0.0138	0.001	0.0005	2.7064	5.1192	0.811
