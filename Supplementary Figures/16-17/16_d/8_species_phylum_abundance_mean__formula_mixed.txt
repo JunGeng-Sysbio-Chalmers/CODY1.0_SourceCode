@@ -1,0 +1,10 @@
+time	phylum	mean(value)
+B	Actinobacteria	0.119570638509156
+B	Bacteroidetes	0.088607146598739
+B	Firmicutes	0.000465139717682857
+4M	Actinobacteria	0.266192155082592
+4M	Bacteroidetes	0.0919641370574296
+4M	Firmicutes	1.78755983985134e-05
+12M	Actinobacteria	0.018038911815295
+12M	Bacteroidetes	0.0407102247091733
+12M	Firmicutes	0.0366666365432476
