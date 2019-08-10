@@ -1,0 +1,25 @@
+Type	Species	prediction
+Newborn	Bacteroides fragilis	0.070281969
+4 Months	Bacteroides fragilis	0.052837375
+12 Months	Bacteroides fragilis	0.020333497
+Newborn	Bacteroides thetaiotaomicron	0.005676613
+4 Months	Bacteroides thetaiotaomicron	0.018243258
+12 Months	Bacteroides thetaiotaomicron	0.012355753
+Newborn	Bifidobacterium breve	0.036128242
+4 Months	Bifidobacterium breve	0.060012149
+12 Months	Bifidobacterium breve	0.005653464
+Newborn	Bifidobacterium longum	0.053318008
+4 Months	Bifidobacterium longum	0.156837557
+12 Months	Bifidobacterium longum	0.007573674
+Newborn	Eubacterium hallii	0
+4 Months	Eubacterium hallii	0
+12 Months	Eubacterium hallii	0.005556839
+Newborn	Faecalibacterium prausnitzii	0
+4 Months	Faecalibacterium prausnitzii	0
+12 Months	Faecalibacterium prausnitzii	0.015646287
+Newborn	Roseburia intestinalis	0
+4 Months	Roseburia intestinalis	0
+12 Months	Roseburia intestinalis	0.015252758
+Newborn	Bifidobacterium adolescentis	0.019510342
+4 Months	Bifidobacterium adolescentis	0.016064958
+12 Months	Bifidobacterium adolescentis	0.000593807
